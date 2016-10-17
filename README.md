@@ -1,6 +1,6 @@
 # Spark job
 
-This project includes a Spark job that performs <something with HDFS>
+This project includes a Spark job that performs (TBD... something with HDFS...)
  
 This is meant to be used as a Metronome scheduled job within the Stratio PaaS.
  
